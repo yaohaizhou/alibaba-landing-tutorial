@@ -5,7 +5,12 @@ A tech tutorial for new software engineers in Alibaba company.
 
 ### Java Basics
 
+1. [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c)
+
 ### Advanced Tech
+
+1. [Implementing Domain-Driven Design by Vaughn Vernon](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+2. [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 
 ## AI
 
