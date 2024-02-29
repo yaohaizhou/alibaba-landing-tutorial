@@ -7,8 +7,6 @@ A tech tutorial for new software engineers in Alibaba company.
 
 ### Advanced Tech
 
-## Business
+## AI
 
-### LLMs
-
-### AI Agents
+[Awesome AGI (LLMs and AI Agents) List](https://github.com/yaohaizhou/awesome-agi/blob/main/README.md)
