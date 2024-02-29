@@ -9,4 +9,4 @@ A tech tutorial for new software engineers in Alibaba company.
 
 ## AI
 
-[Awesome AGI (LLMs and AI Agents) List](https://github.com/yaohaizhou/awesome-agi/blob/main/README.md)
+1. [Awesome AGI (LLMs and AI Agents) List](https://github.com/yaohaizhou/awesome-agi/blob/main/README.md)
