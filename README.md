@@ -5,7 +5,8 @@ A tech tutorial for new software engineers in Alibaba company.
 
 ### Java Basics
 
-1. [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c)
+1. [Alibaba Java Coding Guidelines PDF](https://github.com/alibaba/p3c)
+2. [advanced-java](https://github.com/doocs/advanced-java)
 
 ### Advanced Tech
 
